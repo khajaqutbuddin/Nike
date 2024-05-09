@@ -35,11 +35,9 @@ import {
     <section className=" padding-x sm: py-32 py-16 w-full ">
       <Subscribe />
     </section>
-    <section className=" padding-x bg-black text-white padding-t pb-8  ">
+    <section className=" padding-x bg-black text-white padding-t pb-7  ">
       <Footer />
     </section>
-
-
   </main>
  );
  export default app;
